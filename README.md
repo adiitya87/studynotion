@@ -1,9 +1,5 @@
-HEAD
-# studynotion
-
-
 # StudyNotion - EdTech Platform
-:rocket: [Link to website][https://studynotion-frontend.vercel.app/]
+:rocket: [Link to website](https://studynotion-frontend.vercel.app/)
 
 
 ![Main Page](images/mainpage.png)
@@ -132,6 +128,3 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 
 Access the application in your browser at `http://localhost:3000`.
 
-
-
-026f3ea (first commit)
